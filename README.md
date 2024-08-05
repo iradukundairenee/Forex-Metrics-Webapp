@@ -3,14 +3,6 @@
 # Forex Metrics
 This app displays a list of popular stock market prices. Users can click on selected categories including forex, majors, cryptocurrencies, stocks, and ETFs. Each category lists the latest prices update for the pair. Consumes the [Financial Modeling Prep API](https://site.financialmodelingprep.com/developer/docs).
 
-![Home](src/assets/home.png)
-![Forex](src/assets/forexhp.png)
-![Majors](src/assets/majorshp.png)
-![Cryptos](src/assets/cryptos.png)
-![Stocks](src/assets/stockshp.png)
-![ETFs](src/assets/etfs.png)
-
-
 
 ## Built With
 
